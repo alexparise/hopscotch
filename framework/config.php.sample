@@ -1,0 +1,10 @@
+<?php
+
+const MONGODB_USER = '';
+const MONGODB_PORT = '';
+const MONGODB_PASSWORD = '';
+const MONGODB_DATABASE = '';
+const MONGODB_HOST = '';
+
+const PASSWORD_SALT = '';
+?>
